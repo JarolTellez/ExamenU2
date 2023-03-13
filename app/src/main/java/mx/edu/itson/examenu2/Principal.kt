@@ -41,11 +41,7 @@ class Principal : AppCompatActivity() {
 
 
             detalles.add(Detalles(R.drawable.cumplebotanas,""))
-            re.add(Pelicula("Big Hero 6",R.drawable.bighero6, R.drawable.headerbighero6, "When a devastating event befalls the city of San Fransokyo and catapults " +
-                    "Hiro into the midst of danger, he turns to Baymax and his close friends adrenaline junkie Go Go Tomago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. " +
-                    "Determined to uncover the mystery, Hiro transforms his friends into a band of high-tech heroes called ‘Big Hero 6.’",
-                arrayListOf<Cliente>()
-            ))
+
     }
 
 
